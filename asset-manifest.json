@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf72a93c.css",
+    "main.js": "/static/js/main.8ec6767a.js",
+    "static/js/787.2fccb33f.chunk.js": "/static/js/787.2fccb33f.chunk.js",
+    "static/media/sunnyside-redi.png": "/static/media/sunnyside-redi.630af258ea30bb56f0a8.png",
+    "static/media/Decrha-redi.png": "/static/media/Decrha-redi.dfc66920930d6d2562c9.png",
+    "static/media/ControlApp-redi.png": "/static/media/ControlApp-redi.6300df00168d2218e066.png",
+    "static/media/foto_wes_home.jpeg": "/static/media/foto_wes_home.a17eaca2fd751e550553.jpeg",
+    "static/media/Countdown-redi.png": "/static/media/Countdown-redi.d11e4a3a5c4fc636b65a.png",
+    "index.html": "/index.html",
+    "main.bf72a93c.css.map": "/static/css/main.bf72a93c.css.map",
+    "main.8ec6767a.js.map": "/static/js/main.8ec6767a.js.map",
+    "787.2fccb33f.chunk.js.map": "/static/js/787.2fccb33f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf72a93c.css",
+    "static/js/main.8ec6767a.js"
+  ]
+}
